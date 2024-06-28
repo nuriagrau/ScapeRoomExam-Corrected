@@ -7,7 +7,7 @@ import finishedScapeRoom.Room.Room;
 import finishedScapeRoom.Room.RoomManager;
 
 import static finishedScapeRoom.AppMenu.scapeRoomsList;
-import static finishedScapeRoom.InputHelper.inputString;
+import static finishedScapeRoom.Helpers.InputHelper.inputString;
 import static finishedScapeRoom.Room.RoomManager.getRoomIndex;
 import static finishedScapeRoom.Room.RoomManager.showRooms;
 

@@ -1,4 +1,4 @@
-package finishedScapeRoom;
+package finishedScapeRoom.Helpers;
 
 import java.util.Scanner;
 

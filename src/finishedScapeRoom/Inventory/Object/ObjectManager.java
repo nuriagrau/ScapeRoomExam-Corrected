@@ -2,11 +2,10 @@ package finishedScapeRoom.Inventory.Object;
 
 import finishedScapeRoom.Exceptions.InventoryItemAlreadyExists;
 import finishedScapeRoom.Exceptions.TopicNotFoundException;
-import finishedScapeRoom.Inventory.Clue.Topic;
 import finishedScapeRoom.Inventory.InventoryManager;
 import finishedScapeRoom.Room.RoomManager;
 
-import static finishedScapeRoom.InputHelper.*;
+import static finishedScapeRoom.Helpers.InputHelper.*;
 import static finishedScapeRoom.Room.RoomManager.getRoomIndex;
 
 public class ObjectManager {

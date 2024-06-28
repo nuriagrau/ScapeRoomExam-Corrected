@@ -5,7 +5,7 @@ import finishedScapeRoom.Exceptions.TopicNotFoundException;
 import finishedScapeRoom.Inventory.InventoryManager;
 import finishedScapeRoom.Room.RoomManager;
 
-import static finishedScapeRoom.InputHelper.*;
+import static finishedScapeRoom.Helpers.InputHelper.*;
 import static finishedScapeRoom.Room.RoomManager.getRoomIndex;
 
 public class ClueManager {

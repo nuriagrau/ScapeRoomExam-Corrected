@@ -9,7 +9,7 @@ import finishedScapeRoom.Inventory.InventoryItem;
 import java.util.ArrayList;
 
 import static finishedScapeRoom.AppMenu.scapeRoomsList;
-import static finishedScapeRoom.InputHelper.inputString;
+import static finishedScapeRoom.Helpers.InputHelper.inputString;
 
 public class RoomManager {
 

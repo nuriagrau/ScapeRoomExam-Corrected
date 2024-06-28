@@ -4,9 +4,8 @@ import finishedScapeRoom.Exceptions.*;
 import finishedScapeRoom.Room.Room;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
-import static finishedScapeRoom.InputHelper.inputInt;
+import static finishedScapeRoom.Helpers.InputHelper.inputInt;
 import static finishedScapeRoom.Inventory.Clue.ClueManager.addClue;
 import static finishedScapeRoom.Inventory.InventoryManager.*;
 import static finishedScapeRoom.Inventory.Object.ObjectManager.addObject;
