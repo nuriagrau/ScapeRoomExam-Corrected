@@ -1,4 +1,5 @@
 Escape Room Virtual: La Sala de los Enigmas
+
 Nos han encargado desarrollar una aplicación para administrar un Escape Room
 virtual, donde los usuarios puedan disfrutar de emocionantes aventuras y resolver
 desafiantes enigmas en una sala temática llamada "La Sala de los Enigmas".
